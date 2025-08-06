@@ -139,3 +139,6 @@ The tests verify:
 - Timezone is hardcoded to `America/Chicago` in `LocationWeather.py`.
 - Only daily data for a specific date across five years is supported.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
